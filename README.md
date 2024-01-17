@@ -1,1 +1,2 @@
 # Nextjs_AppWrite
+// readme
